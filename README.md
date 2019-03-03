@@ -19,3 +19,4 @@
 14. Ensure a log metric filter and alarm exist for VPC change : [Networking-slack](https://github.com/4ndersonLin/Networking-slack)
 
 ## Additional alert
+GuardDuty : It can cover multiple controls and enhance the security of AWS account. [Guardduty-slack](https://github.com/4ndersonLin/guardduty-slack)
