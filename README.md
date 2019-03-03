@@ -4,7 +4,7 @@
 
 ### Monitoring
 1. Ensure a log metric filter and alarm exist for unauthorized API calls
-2. Ensure a log metric filter and alarm exist for Management Console sign-in without MFA
+2. Ensure a log metric filter and alarm exist for Management Console sign-in without MFA : [Console-slack](https://github.com/4ndersonLin/Console-slack)
 3. Ensure a log metric filter and alarm exist for usage of "root" account
 4. Ensure a log metric filter and alarm exist for IAM policy changes
 5. Ensure a log metric filter and alarm exist for CloudTrail configuration changes
